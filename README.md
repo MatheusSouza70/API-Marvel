@@ -25,6 +25,6 @@
 <img align="center" src="https://cdn.discordapp.com/attachments/704805407906070581/950526161778245692/unknown.png" >
 <br>
 <h1 align="center">  Link para visualização </h1>
-<p> - https://matheussouza70.github.io// </p>
+<p> - https://matheussouza70.github.io/API-Marvel/ </p>
 
 <a href="https://github.com/MatheusSouza70/API-Marvel"><img align="center" src="https://cdn.discordapp.com/attachments/704805407906070581/950523396377161738/210092.gif"></a>
