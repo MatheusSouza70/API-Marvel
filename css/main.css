@@ -1,0 +1,23 @@
+.card {
+  margin: 20px;
+}
+
+.row {
+  margin: auto;
+  max-width: 1000px;
+}
+
+body {
+  background-image: url("../img/94668.jpg");
+  background-size: 100%;
+}
+
+h1 {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  max-width: 950px;
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  font-style: oblique;
+}
